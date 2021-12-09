@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831679307606",
+    "project_id": "armandopizza",
+    "storage_bucket": "armandopizza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831679307606:android:27bafd48eeeadb6c20c0f7",
+        "android_client_info": {
+          "package_name": "com.example.pizzeria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831679307606-3qiuoio9u326ik2t1hl2dibvs5gf7hri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQCx0tKkEhbMlTev1GhPkP5i_SVOwOlhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831679307606-3qiuoio9u326ik2t1hl2dibvs5gf7hri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
